@@ -1,0 +1,4 @@
+Hello, World! This is a demonstration of Huffman coding.
+Huffman coding is a lossless data compression algorithm.
+It assigns variable-length codes to input characters,
+with shorter codes assigned to more frequent characters.

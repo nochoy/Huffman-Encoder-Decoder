@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog. This is a simple text file used for demonstrating the Huffman encoding algorithm. Huffman coding is a lossless data compression algorithm that assigns variable-length codes to input characters based on their frequencies. The most frequent character gets the smallest code and the least frequent character gets the largest code.
+
+In this example, we can see how the algorithm compresses text by analyzing character frequencies and creating an optimal prefix code. The compression ratio will depend on the distribution of characters in the text - texts with skewed frequency distributions will achieve better compression ratios.
+
+This file contains various characters including spaces, periods, and newlines, which will help demonstrate the versatility of the Huffman encoding implementation.
