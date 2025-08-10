@@ -47,6 +47,7 @@
 # Clone the repository
 git clone https://github.com/nochoy/Huffman-Encoder-Decoder.git
 
+# Open repository
 cd Huffman-Encoder-Decoder
 
 # Standard build
@@ -57,8 +58,6 @@ make clean && make
 ```
 
 ## 📖 Usage Guide
-
-### Command Line Interface
 
 #### Encoding (Compression)
 ```bash
@@ -191,4 +190,8 @@ gcc -o decode decode.c huffman.c pq.c io.c node.c stack.c -lm
 ```bash
 # On Unix systems
 chmod +x demo.sh
+```
 
+
+---
+NOTE: This program was modified from a Computer Systems and C Programming course assignment. All header files were provided by Professor Darrell Long at UC Santa Cruz.
